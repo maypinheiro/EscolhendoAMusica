@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.exe
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.deps.json
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.runtimeconfig.json
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.dll
+C:\Users\017586631\source\repos\EscolhendoAMusica\bin\Debug\netcoreapp3.1\EscolhendoAMusica.pdb
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.AssemblyInfo.cs
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.dll
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.pdb
+C:\Users\017586631\source\repos\EscolhendoAMusica\obj\Debug\netcoreapp3.1\EscolhendoAMusica.genruntimeconfig.cache
